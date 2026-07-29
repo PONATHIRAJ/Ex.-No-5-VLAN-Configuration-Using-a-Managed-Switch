@@ -60,6 +60,8 @@ Switch(config-if-range)# switchport access vlan 20<br>
 Switch(config-if-range)# exit<br>
 ________________________________________
 # Output (Screenshots)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4c0139c1-49c9-481f-8152-8028724267e9" />
+
 •	VLAN configuration on switch<br>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e3d9ecf8-5018-4541-8add-973311cf8eac" />
 
